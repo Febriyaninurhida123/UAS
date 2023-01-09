@@ -214,4 +214,7 @@ while True:
 
 ![gambar11](ss/ss11.png)
 
+untuk tutorial dalam bentuk videonya saya upload di YouTube dengan llink di bawah ini : 
+https://youtu.be/q8acTyAVS68
+
 ### Sekian dan Terima kasih :)
